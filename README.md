@@ -21,6 +21,37 @@ The workshop combines methods from artistic research, environmental sensing, spe
 
 ---
 
+## References
+
+David Bowen
+https://www.dwbowen.com/visual-index
+
+Marco Barotti
+https://www.marcobarotti.com/WORKS
+
+Random International – „Audience“
+https://www.random-international.com/audience
+
+Niklas Roy - My little piece of privacy
+https://www.niklasroy.com/project/88/my-little-piece-of-privacy 
+
+Quadrature –  Positions of the Unknown
+https://quadrature.co/work/unknown/ 
+
+Christina Kubisch – „Electrical Walks“
+https://christinakubisch.de/electrical-walks
+
+Markus Maeder
+https://marcusmaeder.ch/
+
+Rasa Smite & Raitis Smits
+https://smitesmits.com/PondBattery.html
+
+Jennifer Gabrys 
+https://www.jennifergabrys.net/2019/09/how-to-sensors/
+
+---
+
 ## Hardware
 
 Each handheld device consists of:
