@@ -21,7 +21,7 @@ The workshop combines methods from artistic research, environmental sensing, spe
 
 ---
 
-## References
+## References (Art & Theory)
 
 https://www.dwbowen.com/visual-index
 
@@ -40,6 +40,8 @@ https://marcusmaeder.ch/
 https://smitesmits.com/PondBattery.html
 
 https://www.jennifergabrys.net/2019/09/how-to-sensors/
+
+https://www.jennifergabrys.net/2016/03/program-earth-environmental-sensing-technology-making-computational-planet/
 
 ---
 
