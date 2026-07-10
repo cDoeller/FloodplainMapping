@@ -24,13 +24,21 @@ The workshop combines methods from artistic research, environmental sensing, spe
 ## References
 
 https://www.dwbowen.com/visual-index
+
 https://www.marcobarotti.com/WORKS
+
 https://www.random-international.com/audience
+
 https://www.niklasroy.com/project/88/my-little-piece-of-privacy 
+
 https://quadrature.co/work/unknown/ 
+
 https://christinakubisch.de/electrical-walks
+
 https://marcusmaeder.ch/
+
 https://smitesmits.com/PondBattery.html
+
 https://www.jennifergabrys.net/2019/09/how-to-sensors/
 
 ---
