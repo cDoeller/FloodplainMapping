@@ -4,7 +4,7 @@
 #define PRINT_DELAY_TIME 1000
 #define MEASURE_DELAY_TIME 100  // this has to be lower than print rate and higher than X
 #define RESOLUTION_BIT 10       // 12 = max, long measure times of about 750ms!; 9 bit = 94ms; 10 bit 188ms
-#define ONE_WIRE_BUS 21
+#define ONE_WIRE_BUS 19
 
 float tempTempC = -127.00;
 float validTempC = 0;
